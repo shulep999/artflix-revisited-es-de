@@ -1,17 +1,19 @@
 <theme>
    <variables>
-      <systemDescription>The Game Gear is an 8-bit fourth generation handheld game console released by Sega on October 6, 1990 in Japan, in April 1991 throughout North America and Europe, and during 1992 in Australia. The Game Gear primarily competed with Nintendo's Game Boy, the Atari Lynx, and NEC's TurboExpress. It shares much of its hardware with the Master System, and can play Master System games by the use of an adapter. Sega positioned the Game Gear, which had a full-color backlit screen with a landscape format, as a technologically superior handheld to the Game Boy.
+      <systemName>Game Gear</systemName>
+      <systemDescription>Game Gear - это 8-битная портативная игровая консоль четвертого поколения, выпущенная компанией Sega 6 октября 1990 года в Японии, в апреле 1991 года в Северной Америке и Европе и в 1992 году в Австралии. Game Gear в первую очередь конкурировала с Game Boy от Nintendo, Atari Lynx и TurboExpress от NEC. Она имеет общую аппаратную часть с Master System и может играть в игры Master System с помощью адаптера. Sega позиционировала Game Gear с полностью цветным экраном с подсветкой и альбомным форматом как технологически более совершенную портативную консоль, чем Game Boy.
 
-Though the Game Gear was rushed to market, its unique game library and price point gave it an edge over the Atari Lynx and TurboExpress. However, due to its short battery life, lack of original games, and weak support from Sega, the Game Gear was unable to surpass the Game Boy, selling 10.62 million units by March 1996. The Game Gear was discontinued on April 30, 1997. It was re-released as a budget system by Majesco Entertainment in 2000, under license from Sega.</systemDescription>
+      Несмотря на то, что Game Gear была выпущена на рынок в спешке, уникальная библиотека игр и доступная цена обеспечили ей преимущество перед Atari Lynx и TurboExpress. Однако из-за короткого времени автономной работы, отсутствия оригинальных игр и слабой поддержки со стороны Sega, Game Gear не смогла превзойти Game Boy, продав к марту 1996 года 10,62 миллиона устройств. Game Gear была снята с производства 30 апреля 1997 года. В 2000 году компания Majesco Entertainment по лицензии Sega переиздала ее в качестве бюджетной системы.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1990</systemReleaseYear>
       <systemReleaseDate>1990-10-06</systemReleaseDate>
       <systemReleaseDateFormated>October 6, 1990</systemReleaseDateFormated>
       <systemHardwareType>Portable</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>356FAF</systemColor>
       <systemColorPalette1>CCCBCB</systemColorPalette1>
       <systemColorPalette2>D41808</systemColorPalette2>
       <systemColorPalette3>008200</systemColorPalette3>
       <systemColorPalette4>0000FE</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

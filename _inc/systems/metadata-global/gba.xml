@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Game Boy Advance (abbreviated as GBA) is a 32-bit handheld video game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, in Australia and Europe on June 22, 2001, and in mainland China on June 8, 2004 (iQue Player). Nintendo's competitors in the handheld market at the time were the Neo Geo Pocket Color, WonderSwan, GP32, Tapwave Zodiac, and the N-Gage. Despite the competitors' best efforts, Nintendo maintained a majority market share with the Game Boy Advance. As of June 30, 2010, the Game Boy Advance series has sold 81.51 million units worldwide. Its successor, the Nintendo DS, was released in November 2004 and is also compatible with Game Boy Advance software.</systemDescription>
+      <systemName>Game Boy Advance</systemName>
+      <systemDescription>Game Boy Advance (сокращенно GBA) - 32-битная портативная игровая консоль, разработанная, производимая и продаваемая компанией Nintendo как преемник Game Boy Color. Она была выпущена в Японии 21 марта 2001 года, в Северной Америке - 11 июня 2001 года, в Австралии и Европе - 22 июня 2001 года, а в центральном Китае - 8 июня 2004 года (iQue Player). Конкурентами Nintendo на рынке портативных консолей в то время были Neo Geo Pocket Color, WonderSwan, GP32, Tapwave Zodiac и N-Gage. Несмотря на все усилия конкурентов, Nintendo сохранила за собой большую долю рынка, выпустив Game Boy Advance. По состоянию на 30 июня 2010 года продажи серии Game Boy Advance составили 81,51 миллиона единиц по всему миру. Ее преемница, Nintendo DS, была выпущена в ноябре 2004 года и также совместима с программным обеспечением Game Boy Advance.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>2001</systemReleaseYear>
       <systemReleaseDate>2001-06-11</systemReleaseDate>
       <systemReleaseDateFormated>June 11, 2001</systemReleaseDateFormated>
       <systemHardwareType>Portable</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>4C74D6</systemColor>
       <systemColorPalette1>5C67A9</systemColorPalette1>
       <systemColorPalette2>280FBE</systemColorPalette2>
       <systemColorPalette3>BCBCBC</systemColorPalette3>
       <systemColorPalette4>212121</systemColorPalette4>
-   </variables>
+	  <systemCartSize>112-67</systemCartSize>    </variables>
 </theme>
